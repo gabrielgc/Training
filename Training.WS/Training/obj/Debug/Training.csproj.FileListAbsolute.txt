@@ -1,0 +1,14 @@
+D:\Projetos\Training\Training.WS\Training\bin\Training.dll.config
+D:\Projetos\Training\Training.WS\Training\bin\Training.dll
+D:\Projetos\Training\Training.WS\Training\bin\Training.pdb
+D:\Projetos\Training\Training.WS\Training\bin\Newtonsoft.Json.dll
+D:\Projetos\Training\Training.WS\Training\bin\System.Net.Http.Formatting.dll
+D:\Projetos\Training\Training.WS\Training\bin\System.Web.Http.dll
+D:\Projetos\Training\Training.WS\Training\bin\System.Web.Http.WebHost.dll
+D:\Projetos\Training\Training.WS\Training\bin\Newtonsoft.Json.xml
+D:\Projetos\Training\Training.WS\Training\bin\System.Net.Http.Formatting.xml
+D:\Projetos\Training\Training.WS\Training\bin\System.Web.Http.xml
+D:\Projetos\Training\Training.WS\Training\bin\System.Web.Http.WebHost.xml
+D:\Projetos\Training\Training.WS\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+D:\Projetos\Training\Training.WS\Training\obj\Debug\Training.dll
+D:\Projetos\Training\Training.WS\Training\obj\Debug\Training.pdb
