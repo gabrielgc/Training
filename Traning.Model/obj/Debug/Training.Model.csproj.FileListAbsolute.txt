@@ -1,9 +1,0 @@
-D:\Projetos\Tranning\Tranning.Model\obj\Debug\Training.Model.csprojResolveAssemblyReference.cache
-D:\Projetos\Tranning\Tranning.Model\bin\Debug\Tranning.Model.dll
-D:\Projetos\Tranning\Tranning.Model\bin\Debug\Tranning.Model.pdb
-D:\Projetos\Tranning\Tranning.Model\obj\Debug\Tranning.Model.dll
-D:\Projetos\Tranning\Tranning.Model\obj\Debug\Tranning.Model.pdb
-D:\Projetos\Training\Traning.Model\bin\Debug\Tranning.Model.dll
-D:\Projetos\Training\Traning.Model\bin\Debug\Tranning.Model.pdb
-D:\Projetos\Training\Traning.Model\obj\Debug\Tranning.Model.dll
-D:\Projetos\Training\Traning.Model\obj\Debug\Tranning.Model.pdb
